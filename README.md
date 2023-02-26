@@ -1,4 +1,4 @@
-# aml2203_proj_group_10
+# AIML 2203 - Project
 
 Group Members :
 - Abbas Ismail
