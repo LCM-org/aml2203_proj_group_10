@@ -2,6 +2,7 @@
 
 Group Members :
 - Abbas Ismail
-- Megha Chouhan
-- Karthi 
+- Megha Chauhan
+- Karthi Kuthalingam
 - Gitik Kaushik
+- Enrique Gonzalez Zepeda
