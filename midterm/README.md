@@ -1,7 +1,9 @@
 Project running Instruction
 
 pip install streamlit
+
 cd <project folder>
+  
 python -m streamlit run app.py
   
 A browser session will open. Choose 'Score Prediction' from menu on the left side of the page.
